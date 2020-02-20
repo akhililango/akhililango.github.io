@@ -1594,8 +1594,8 @@ input, select, textarea {
 		transition: background-color .25s ease-in-out;
 		-webkit-appearance: none;
 		display: inline-block;
-		background-color: #222222;
-		color: #808080;
+		background-color: #808080;
+		color: #f4f4f4;
 		border: 0;
 		cursor: pointer;
 		outline: 0;
