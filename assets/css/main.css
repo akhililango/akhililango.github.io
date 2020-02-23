@@ -2191,7 +2191,7 @@ input, select, textarea {
 		}
 
 /* Error Page */
-	#errorpage {outline:none;}
+/* 	#errorpage {outline:none;}
 
 		#errorpage body {
 		  background: #C33232;
@@ -2239,7 +2239,7 @@ input, select, textarea {
 		  right:10px;
 		  color: #ddd;
 		}
-
+ */
 
 #error.error-template {padding: 40px 15px;text-align: center;}
 #error.error-actions {margin-top:15px;margin-bottom:15px;}
