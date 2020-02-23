@@ -2246,7 +2246,7 @@ input, select, textarea {
 .error-actions .btn { margin-right:10px; }
 
 /* Contact Card */
-.card {
+/* .card {
   position: relative;
   display: -ms-flexbox;
   display: flex;
@@ -2517,5 +2517,5 @@ input, select, textarea {
 
 .accordion .card .card-header {
   margin-bottom: -1px;
-}
+} */
 /* End of card */
