@@ -2191,8 +2191,9 @@ input, select, textarea {
 		}
 
 /* Error Page */
-	*:focus {outline:none;}
-		body {
+	#errorpage {outline:none;}
+
+		#errorpage body {
 		  background: #C33232;
 		  color: #fff;
 		  font-family: 'Open Sans', sans-serif;
@@ -2201,18 +2202,18 @@ input, select, textarea {
 		  overflow:hidden;
 		}
 
-		.fa-5, h2 {
+		#errorpage .fa-5, h2 {
 		    font-size: 12em;
 		    font-weight: 600;
 		    display:inline-block;
 		    margin: 0;
 		}
 
-		.content {
+		#errorpage .content {
 
 		}
 
-		#abutton {
+		#errorpage #abutton {
 		  width: 500px;
 		  height: 60px;
 		  font-size: 2em;
@@ -2225,14 +2226,14 @@ input, select, textarea {
 		  -webkit-transition: all .2s;
 		}
 
-		#abutton:hover {
+		#errorpage #abutton:hover {
 		  transform: scale(.989);
 		  -moz-transform: scale(.989);
 		  -webkit-transform: scale(.989);
 		  background: #f4f4f4;
 		}
 
-		a {
+		#errorpage a {
 		  position:fixed;
 		  bottom: 10px;
 		  right:10px;
