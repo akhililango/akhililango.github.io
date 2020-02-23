@@ -2241,9 +2241,9 @@ input, select, textarea {
 		}
  */
 
-.error-template {padding: 40px 15px;text-align: center;}
-.error-actions {margin-top:15px;margin-bottom:15px;}
-.error-actions .btn { margin-right:10px; }
+#error.error-template {padding: 40px 15px;text-align: center;}
+#error.error-actions {margin-top:15px;margin-bottom:15px;}
+#error.error-actions .btn { margin-right:10px; }
 
 /* Contact Card */
 /* .card {
