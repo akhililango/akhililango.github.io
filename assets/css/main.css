@@ -2377,7 +2377,7 @@ input, select, textarea {
   margin-bottom: 15px;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 1440px) {
   .card-deck {
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
@@ -2408,7 +2408,7 @@ input, select, textarea {
   margin-bottom: 15px;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 1440px) {
   .card-group {
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
@@ -2474,7 +2474,7 @@ input, select, textarea {
   margin-bottom: 0.75rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 1440px) {
   .card-columns {
     -webkit-column-count: 3;
     -moz-column-count: 3;
