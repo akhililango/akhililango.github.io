@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+ol, ul, dl {
+	list-height: 80%;
+}
+
 blockquote, q {
 	quotes: none;
 }
