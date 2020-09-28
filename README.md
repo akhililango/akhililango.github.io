@@ -2,14 +2,14 @@
 Personal website.
 
 ## About Theme
-Based on Astral by HTML5 UP.
+Based on Astral by [HTML5 UP][html5up].
 
 ## License
-Licensed under Creative Commons Attribution 3.0 Unported. View the full license over here.
+Licensed under Creative Commons Attribution 3.0 Unported. View the full license [here][license].
 
 ## Credits
 Original Theme:
-AJ aj@lkn.io | @ajlkn
+- AJ aj@lkn.io | [@ajlkn][twitter]
 
 Icons:
-Font Awesome (fontawesome.github.com/Font-Awesome)
+- Font Awesome (fontawesome.github.com/Font-Awesome)
