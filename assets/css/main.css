@@ -2236,11 +2236,11 @@ input, select, textarea {
 }
 
 .read-more-state ~ .read-more-trigger:before {
-  content: 'Show more';
+  content: 'More';
 }
 
 .read-more-state:checked ~ .read-more-trigger:before {
-  content: 'Show less';
+  content: 'Less';
 }
 
 .read-more-trigger {
