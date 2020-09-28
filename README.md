@@ -8,8 +8,6 @@ Based on Astral by [HTML5 UP][html5up].
 Licensed under Creative Commons Attribution 3.0 Unported. View the full license [here][license].
 
 ## Credits
-Original Theme:
-- AJ aj@lkn.io | [@ajlkn][twitter]
+Original Theme: AJ aj@lkn.io | [@ajlkn][twitter]
 
-Icons:
-- Font Awesome (fontawesome.github.com/Font-Awesome)
+Icons: Font Awesome (fontawesome.github.com/Font-Awesome)
