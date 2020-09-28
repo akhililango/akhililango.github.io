@@ -5,7 +5,7 @@ Personal website.
 Based on Astral by [HTML5 UP][html5up].
 
 ## License
-Licensed under Creative Commons Attribution 3.0 Unported. View the full license [over here][license].
+Licensed under Creative Commons Attribution 3.0 Unported. View the full license [here][https://github.com/justinhartman/html5up-astral/blob/master/LICENSE.txt].
 
 ## Credits
 Original Theme: AJ aj@lkn.io | [@ajlkn][twitter]
