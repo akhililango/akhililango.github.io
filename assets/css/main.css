@@ -2246,12 +2246,12 @@ input, select, textarea {
 .read-more-trigger {
   cursor: pointer;
   display: inline-block;
-  margin: 0;
-  margin-top: -4px;
-  padding: 0 .25em;
+/*   margin: 0;
+  margin-top: -4px; */
+  padding: 0 .5em;
   color: #666;
-  font-size: .5em;
-  line-height: 1;
+  font-size: .9em;
+  line-height: 2;
   border: 1px solid #ddd;
   border-radius: .25em;
 }
