@@ -10,4 +10,4 @@ Licensed under Creative Commons Attribution 3.0 Unported. View the full license 
 ## Credits
 Original Theme: AJ aj@lkn.io | [@ajlkn][twitter]
 
-Icons: Font Awesome (fontawesome.github.com/Font-Awesome)
+Icons: [Font Awesome](fontawesome.github.com/Font-Awesome)
