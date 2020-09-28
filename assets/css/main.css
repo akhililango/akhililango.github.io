@@ -41,6 +41,15 @@ a:visited {
   text-decoration: none;
 }
 
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+  text-decoration: underline;
+}
 
 body {
 	line-height: 1;
