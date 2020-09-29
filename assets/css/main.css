@@ -2260,11 +2260,6 @@ input, select, textarea {
 		  border-radius: .25em;
 		}
 
-.drop {
-	margin-top: -2px;
-	margin-bottom: -2px; 
-}
-
 /* Error Page */
 /* 	#errorpage {outline:none;}
 
