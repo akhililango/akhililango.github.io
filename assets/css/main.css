@@ -2221,7 +2221,7 @@ input, select, textarea {
 		.read-more-state {
 		  display: none;
 		  margin: 0;
-		  margin-bottom: -4px;
+/* 		  margin-bottom: -4px; */
 		}
 
 		.read-more-target {
@@ -2230,7 +2230,7 @@ input, select, textarea {
 		  font-size: 0;
 		  transition: .25s ease;
 		  margin: 0;
-		  margin-top: -4px;
+/* 		  margin-top: -4px; */
 		}
 
 		.read-more-state:checked ~ .read-more-wrap .read-more-target {
