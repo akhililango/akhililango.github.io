@@ -2220,7 +2220,7 @@ input, select, textarea {
 /* Drop-down text box */
 		.read-more-state {
 		  display: none;
-		  margin: 0;
+/* 		  margin: 0; */
 /* 		  margin-bottom: -4px; */
 		}
 
@@ -2229,7 +2229,7 @@ input, select, textarea {
 		  max-height: 0;
 		  font-size: 0;
 		  transition: .25s ease;
-		  margin: 0;
+/* 		  margin: 0; */
 /* 		  margin-top: -4px; */
 		}
 
