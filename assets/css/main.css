@@ -2246,9 +2246,9 @@ input, select, textarea {
 .read-more-trigger {
   cursor: pointer;
   display: inline-block;
-  padding: 15px; /*0 .5em;*/
+  padding: 1em; /*0 .5em;*/
   color: #666;
-  font-size: 15px; /*.9em;*/
+  font-size: 1em; /*.9em;*/
   line-height: 2;
   border: 1px solid #ddd;
   border-radius: .25em;
