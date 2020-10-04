@@ -2254,6 +2254,16 @@ input, select, textarea {
   border-radius: .25em;
 }
 
+/*  DropDown: Type 2 */
+.dropdown summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.dropdown summary::-webkit-details-marker {
+  display: none; 
+}
+
 /* Error Page */
 /* 	#errorpage {outline:none;}
 
