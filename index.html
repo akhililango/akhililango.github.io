@@ -31,14 +31,14 @@
 
 	<body class="is-preload">
 		<script>
-	function myFunction() {
+	function Abstract() {
 	  var dots = document.getElementById("dots");
 	  var moreText = document.getElementById("more");
 	  var btnText = document.getElementById("myBtn");
 
 	  if (dots.style.display === "none") {
 	    dots.style.display = "inline";
-	    btnText.innerHTML = "Read more"; 
+	    btnText.innerHTML = "Abstract"; 
 	    moreText.style.display = "none";
 	  } else {
 	    dots.style.display = "none";
@@ -78,7 +78,7 @@
 									<br style="line-height: 10px" />
 									<p style="font-size: 16px;">
 <!-- 										I'm a PhD student at Universitat Pompeu Fabra, Barcelona.<br> -->
-										Research Interests: Industrial Organisation, Development Economics.<br style="line-height: 10px" />
+										Research Interests: <b>Industrial Organisation</b>, <b>Development Economics</b>.<br style="line-height: 10px" />
 <!-- 										Currently working on: Digital Economy, Misallocation, Structural Transformation.<br> -->
 <!-- 										<br> -->
 										Check out my JMP or <a href="https://github.com/akhililango/akhililango.github.io/blob/master/pages/CV_Akhil_Ilango.pdf?raw=true">CV</a>.<br style="line-height: 10px" />
@@ -199,12 +199,14 @@
   <label for="post-2" class="read-more-trigger"></label>
 </div> -->
 								<section>
-<!-- 									<header> -->
+									<header>
 										<h3>Work In Progress</h3>
 <!-- 										<h3>Working papers</h3> -->
-<!-- 									</header> -->
-									<dt>Consumer Search and Paid Placement&emsp;&emsp; (<a href="https://drive.google.com/file/d/1hxuRdHUrtIN8ttiPkqBIblCVYMG_bXNb/view" style="font-size: 18px;">Paper</a>, <a href="https://drive.google.com/file/d/1Njf0SYsHttWYDncAg0uHSlIkh6nvr0qn/view" style="font-size: 18px;">Slides</a>)</dt>
-									<span id="dots">...</span><span id="more">
+									</header>
+									<dt>Consumer Search and Paid Placement&emsp;&emsp; 
+									<button onclick="myFunction()" id="myBtn">Abstract</button> 
+										(<a href="https://drive.google.com/file/d/1hxuRdHUrtIN8ttiPkqBIblCVYMG_bXNb/view" style="font-size: 18px;">Paper</a>, <a href="https://drive.google.com/file/d/1Njf0SYsHttWYDncAg0uHSlIkh6nvr0qn/view" style="font-size: 18px;">Slides</a>)</dt>
+									<span id="more">
 									<p>
 									&emsp;I develop a general theory for digital marketplaces where an intermediary provides the platform for
 												firms to list their product, and for consumers to search for products in this list. The intermediary
@@ -220,7 +222,6 @@
 									</p>
 									<br><img src="pages/projects/img/s_1_1.png" width="400" height="300" alt="cs" class="center">
 									</span>
-									<button onclick="myFunction()" id="myBtn">Abstract</button>
  										<div style="text-align:justify;">
 											<details>
 											  <summary>Consumer Search and Paid Placement&emsp;&emsp; (<a href="https://drive.google.com/file/d/1hxuRdHUrtIN8ttiPkqBIblCVYMG_bXNb/view" style="font-size: 18px;">Paper</a>, <a href="https://drive.google.com/file/d/1Njf0SYsHttWYDncAg0uHSlIkh6nvr0qn/view" style="font-size: 18px;">Slides</a>)
@@ -267,9 +268,9 @@
 									<dt>The Dynamics of Consumer Search and Paid Placement</dt>
 								</section> -->
  								<section>
-<!-- 								<header> -->
+								<header>
 									<h3>Work in hibernation</h3>
-<!-- 								</header> -->
+								</header>
 									<dt>Rational Adaptation</dt>
 								</section>
 								
