@@ -24,7 +24,30 @@
 <!-- 		<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:500,100,300" rel="stylesheet"> -->
 	</head>
 	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+	#more {display: none;}
+	</style>
+
 	<body class="is-preload">
+		<script>
+	function myFunction() {
+	  var dots = document.getElementById("dots");
+	  var moreText = document.getElementById("more");
+	  var btnText = document.getElementById("myBtn");
+
+	  if (dots.style.display === "none") {
+	    dots.style.display = "inline";
+	    btnText.innerHTML = "Read more"; 
+	    moreText.style.display = "none";
+	  } else {
+	    dots.style.display = "none";
+	    btnText.innerHTML = "Read less"; 
+	    moreText.style.display = "inline";
+	  }
+	}
+	</script>
+	
 
 		<!-- Wrapper-->
 			<div id="wrapper">
@@ -183,16 +206,11 @@
  										<div style="text-align:justify;">
 											<details>
 											  <summary>Consumer Search and Paid Placement&emsp;&emsp; (<a href="https://drive.google.com/file/d/1hxuRdHUrtIN8ttiPkqBIblCVYMG_bXNb/view" style="font-size: 18px;">Paper</a>, <a href="https://drive.google.com/file/d/1Njf0SYsHttWYDncAg0uHSlIkh6nvr0qn/view" style="font-size: 18px;">Slides</a>)
-											  <div class="btn-links">
-												<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/cnm_sop_jmp_eck.pdf" target="_blank" rel="noopener">
-												  PDF
-												</a>
-											  </div>
 											  </summary><p style="font-size: 18px;">
 												&emsp;I develop a general theory for digital marketplaces where an intermediary provides the platform for
 												firms to list their product, and for consumers to search for products in this list. The intermediary
 												determines the order in which products are displayed, by conducting a Generalised Second-Price
-												(GSP) auction. The effect of the auction on product prices is captured by the reserve price, which is
+												(GSP) auction. <span id="dots">...</span><span id="more">The effect of the auction on product prices is captured by the reserve price, which is
 												chosen by the intermediary to maximise its ad commission from firms. In equilibrium, the firm at
 												the top of the list charges a higher price, earns a larger profit and pays higher ad commission. In
 												this setting, I show that consumer surplus increases with search cost as it restrains consumers from
@@ -200,8 +218,9 @@
 												cost. In one specification, I find that setting an upper bound on auction reserve price improves
 												consumer surplus by 63%, without affecting the overall welfare. These findings suggest that a
 												significant share of the ad commission that firms pay the intermediary are passed on to consumers.
-												<br><img src="pages/projects/img/s_1_1.png" width="400" height="300" alt="cs" class="center">
+												<br><img src="pages/projects/img/s_1_1.png" width="400" height="300" alt="cs" class="center"></span>
 												</p></details>
+											<button onclick="myFunction()" id="myBtn">Read more</button>
   											</div>
 											<div style="text-align:justify;">
 											<details>
