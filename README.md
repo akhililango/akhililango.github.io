@@ -1,5 +1,5 @@
 # akhililango.github.io
-Personal website.
+[Personal website](https://akhililango.github.io/)
 
 ## About Theme
 Based on Astral by [HTML5 UP](https://html5up.net/) by AJ aj@lkn.io | [@ajlkn](https://twitter.com/ajlkn)
