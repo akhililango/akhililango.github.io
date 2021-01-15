@@ -2608,3 +2608,42 @@ input, select, textarea {
   margin-bottom: -1px;
 } */
 /* End of card */
+
+@supports (display: flex) {
+    .flex-container {
+        display: flex;
+        flex-flow: row wrap;
+        position: sticky; top: 0
+    }
+}
+.justified {
+    text-align: justify;
+    text-justify: inter-word;
+}
+.nowrap {
+    white-space: nowrap;
+}
+a {
+    color: RoyalBlue;
+}
+a:hover {
+    color: RoyalBlue;
+}
+.btn-link {
+    color: RoyalBlue;
+}
+.btn-link:hover {
+    color: RoyalBlue;
+}
+
+hr {
+    border-color: #d6d8d9;
+}
+.showAbstract[aria-expanded="false"]::after {
+    font-family: FontAwesome;
+    content: " \f078";
+}
+.showAbstract[aria-expanded="true"]::after {
+    font-family: FontAwesome;
+    content: " \f077";
+}
