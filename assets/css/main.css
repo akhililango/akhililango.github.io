@@ -1464,6 +1464,63 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+.papertitle{
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif; 
+	font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 21px; 
+	margin-top: 0rem;
+	margin-bottom: 0.7rem;
+/* 	font-size: 1.5rem; */
+	display: block;
+/* 	line-height: 1.1;  */
+	text-indent: -1rem;
+	margin-left: 1rem;
+}
+
+.coauthors{
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 19px;
+    margin-top: 0rem;
+    margin-bottom: 0.7rem;
+    display: block;
+    line-height: 1.1; 
+    text-indent: -1rem;
+	margin-left: 1rem;
+}
+
+.jounral{
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 18px; font-style: italic; font-variant: normal; font-weight: 700; line-height: 19px;
+    margin-top: 0rem;
+    margin-bottom: 0.7rem;
+    display: block;
+    line-height: 1.1; 
+    text-indent: -1rem;
+	margin-left: 1rem;
+}
+
+.paperlink{
+	font-family: Helvetica, "Times New Roman", sans-serif;
+	font-size: 16px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 17px;
+    margin-top: 0rem;
+    margin-bottom: 0.7rem;
+    display: block;
+    line-height: 1.1; 
+    text-indent: -1rem;
+	margin-left: 1rem;
+}
+
+.miniabstract{
+	font-family: Helvetica, "Times New Roman", sans-serif;
+	font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15px;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+    display: block;
+    line-height: 1.1; 
+    text-indent: -1rem;
+	margin-left: 1rem;
+}
+
+
 /* Table */
 
 	table {
