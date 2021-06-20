@@ -1522,7 +1522,7 @@ input, select, textarea {
 
 details > summary { 
 	margin-top: -50px;
-	margin-bottom: -50px;
+	margin-bottom: -30px;
 	font-size: 20px;
 }
 
