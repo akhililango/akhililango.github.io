@@ -1520,6 +1520,8 @@ input, select, textarea {
 	margin-left: 1rem;
 }
 
+details > summary { margin-top: -20px; }
+
 
 /* Table */
 
