@@ -1520,7 +1520,10 @@ input, select, textarea {
 	margin-left: 1rem;
 }
 
-details > summary { margin-top: -20px; }
+details > summary { 
+	margin-top: -20px; 
+	font-size: 20px;
+}
 
 
 /* Table */
