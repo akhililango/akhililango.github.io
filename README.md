@@ -1,6 +1,4 @@
-# akhililango.github.io
-<font size="1.5"> [Personal website](https://akhililango.github.io/) </font>
-<br><br>
+# [Personal website](https://akhililango.github.io/)
 
 Based on Astral by [HTML5 UP](https://html5up.net/) by AJ aj@lkn.io | [@ajlkn](https://twitter.com/ajlkn)
 
