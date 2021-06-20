@@ -1520,6 +1520,9 @@ input, select, textarea {
 	margin-left: 1rem;
 }
 
+.details {
+	margin-bottom: -10px;
+}
 details > summary { 
 	margin-top: -50px;
 	margin-bottom: 0px;
