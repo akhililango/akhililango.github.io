@@ -1479,7 +1479,7 @@ input, select, textarea {
 .coauthors{
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 	font-size: 20px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
-    	margin-top: 0.2rem;
+    	margin-top: 0rem;
     	margin-bottom: 0rem;
     	display: block;
 /*      line-height: 1.1;  */
