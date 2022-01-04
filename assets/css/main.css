@@ -1557,6 +1557,26 @@ details > p {
 		table.default thead {
 			border-bottom: solid 2px #f4f4f4;
 		}
+	
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+  }
+
+.leftcol {
+  float: left;
+  width: 20%;
+  box-sizing: border-box;
+  }
+.rightcol {
+  float: right;
+  width: 80%;
+  box-sizing: border-box;
+  }
+.cl {
+    clear: both;
+}
 
 /* Form */
 
@@ -2037,27 +2057,6 @@ details > p {
 			}
 
 		}
-
-
-/* Table */
-
-.clearfix:after {
-  content: "";
-  clear: both;
-  display: block;
-  }
-
-.leftcol {
-  float: left;
-  width: 20%;
-  box-sizing: border-box;
-  }
-.rightcol {
-  float: right;
-  width: 80%;
-  box-sizing: border-box;
-  }
-
 
 /* Main */
 
