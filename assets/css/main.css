@@ -2038,6 +2038,27 @@ details > p {
 
 		}
 
+
+/* Table */
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+  }
+
+.leftcol {
+  float: left;
+  width: 20%;
+  box-sizing: border-box;
+  }
+.rightcol {
+  float: right;
+  width: 80%;
+  box-sizing: border-box;
+  }
+
+
 /* Main */
 
 	#main {
