@@ -1466,7 +1466,7 @@ input, select, textarea {
 
 .papertitle{
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif; 
-	font-size: 26px; font-style: bolder; font-variant: small-caps; font-weight: 900; line-height: 26px; 
+	font-size: 18px; font-style: bolder; font-variant: small-caps; font-weight: 900; line-height: 20px; 
 	margin-top: 0rem;
 	margin-bottom: 0.1rem;
 /* 	font-size: 1.5rem; */
@@ -1478,7 +1478,7 @@ input, select, textarea {
 
 .coauthors{
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
-	font-size: 20px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
+	font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18px;
     	margin-top: 0rem;
     	margin-bottom: 0rem;
     	display: block;
@@ -1489,7 +1489,7 @@ input, select, textarea {
 
 .journal{
 	font-family: "Times New Roman", sans-serif;
-	font-size: 20px; font-style: italic; font-variant: normal; font-weight: 400; line-height: 20px;
+	font-size: 16px; font-style: italic; font-variant: normal; font-weight: 400; line-height: 18px;
     	margin-top: 0rem;
     	margin-bottom: -1rem;
     	display: block;
