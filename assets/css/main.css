@@ -1466,7 +1466,7 @@ input, select, textarea {
 
 .papertitle{
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif; 
-	font-size: 18px; font-style: bolder; font-variant: small-caps; font-weight: 900; line-height: 20px; 
+	font-size: 18px; font-style: bolder; font-variant: normal; font-weight: 900; line-height: 20px; 
 	margin-top: 0rem;
 	margin-bottom: 0.1rem;
 	font-size: 1.15rem;
