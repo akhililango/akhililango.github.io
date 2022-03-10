@@ -1520,6 +1520,11 @@ input, select, textarea {
 	margin-left: 1rem;
 }
 
+.brsmall {
+            display: block;
+            margin-bottom: -.2em;
+        }
+
 .details {
 	margin-bottom: 0px;
 }
